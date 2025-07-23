@@ -5,6 +5,8 @@
 ## 📂 基础篇(note)
 - [Java 变量与运算符入门](./note/java1.md)
 - [Java Scanner ](./note/java2.md)
+- [java 优先级与布尔值](./note/java3.md)
+- [java 条件语句](./note/java4.md)
 
 ## 📂 (logic/)
 
