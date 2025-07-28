@@ -7,12 +7,17 @@
 - [Java Scanner ](./note/java2.md)
 - [java 优先级与布尔值](./note/java3.md)
 - [java 条件语句](./note/java4.md)
+- [java for循环语句](./note/java5.md)
+- [java for循环与if条件语句](./note/java6.md)
+
 
 ## 📂 (logic/)
 
 
 ## 📂 (questions/)
 
+
 ## 📂 (tools/)
+
 
 ## 📂 (video/)
