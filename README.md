@@ -9,6 +9,10 @@
 - [java 条件语句](./note/java4.md)
 - [java for循环语句](./note/java5.md)
 - [java for循环与if条件语句](./note/java6.md)
+- [java while循环语句](./note/java7.md)
+- [java try-catch语句](./note/java8.md)
+
+
 
 
 ## 📂 (logic/)
