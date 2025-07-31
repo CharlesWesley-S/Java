@@ -12,6 +12,7 @@
 - [java while循环语句](./note/java7.md)
 - [java try-catch语句](./note/java8.md)
 - [java do-while语句](./note/java9.md)
+- [java function](./note/java9.md)
 
 ## 📂 (logic/)
 
